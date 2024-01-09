@@ -1,0 +1,13 @@
+
+h1 {
+    font-size: 2rem;
+}
+
+.fa.fa-instagram {
+    font-size: 1.5rem;
+    color: rgb(66, 66, 66);
+}
+.fa.fa-instagram:on-hover {
+    font-size: 1.75rem;
+    color: rgb(209, 209, 209)
+}
